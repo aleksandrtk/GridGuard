@@ -191,3 +191,10 @@ String urlEncode(String str) {
   }
   return encodedString;
 } 
+```
+
+## ✨ Key Features
+1. Non-Volatile Memory: Uses ESP32 Preferences to store state. If the ESP32 reboots, it won't send a false "Power OFF" alert.
+2. Smart Timezones: Automatically handles Ukraine's Daylight Saving Time (DST).
+3. Anti-Flicker Logic: Ignores momentary network drops by requiring 5 consecutive failed pings before triggering an alert.
+4. Duration Tracking: Clearly states how long the power was missing.
