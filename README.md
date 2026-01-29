@@ -2,7 +2,7 @@
 
 **GridGuard** is a lightweight, reliable solution for monitoring power outages in specific areas (like a city power line) using an ESP32 and a standard smart socket. It notifies you via **Telegram** when the power goes out or returns, calculating the exact duration of the outage.
 
-
+![Project Banner](banner.png)
 
 ---
 
