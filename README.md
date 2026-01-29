@@ -2,11 +2,13 @@
 
 **GridGuard** is a lightweight, reliable solution for monitoring power outages in specific areas (like a city power line) using an ESP32 and a standard smart socket. It notifies you via **Telegram** when the power goes out or returns, calculating the exact duration of the outage. 
 
-![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-ESP32-E7352C?style=for-the-badge&logo=espressif)
-![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![Bot](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram)
-![Location](https://img.shields.io/badge/Made%20in-Ukraine-yellow?style=for-the-badge&labelColor=blue)
+[![GitHub stars](https://img.shields.io/github/stars/aleksandrtk/GridGuard?style=social)](https://github.com/aleksandrtk/GridGuard)
+[![GitHub forks](https://img.shields.io/github/forks/aleksandrtk/GridGuard?style=social)](https://github.com/aleksandrtk/GridGuard/network/members)
+![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square&logo=c%2B%2B)
+![ESP32](https://img.shields.io/badge/Hardware-ESP32-red?style=flat-square&logo=espressif)
+![Telegram](https://img.shields.io/badge/Notify-Telegram-26A5E4?style=flat-square&logo=telegram)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 
 ![Project Banner](banner.png)
 
